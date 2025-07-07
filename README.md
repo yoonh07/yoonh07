@@ -22,11 +22,15 @@
 
 - [Monte Carlo and Finite Difference Methods
 in option pricing](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Portfolio optimisation with market data](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-
+- [Portfolio Optimisation with Market Data](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 <h2>👨‍💻📚 Honours Research Project in Quantitative Finance</h2>
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+<ul>
+  <li>
+    <b>Optimal Quantization for European Option Pricing under Non-Log-Normal Asset Dynamics</b><br/>
+    <a href="https://github.com/yoonh07/Sea-Cucumber.git" target="_blank">Research Proposal</a>
+  </li>
+</ul>
 
 <h2> About me...</h2>
 
