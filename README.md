@@ -8,7 +8,7 @@
   This realisation led me back to academia through the Honours program, and I’m now actively interested in gaining experience as a Quantitative Trader while continuing to explore opportunities for research in Quantitative Finance.
 </p>
 
-<h2>👨‍💻 Statistical Consultng Projects:</h2>
+<h2>📊📈🧠 Statistical Consultng Projects:</h2>
 
 - <b>A Statistical Investigation into Sea Cucumber   Species at One Tree Island
   - [Negative Binomial Model to Understand Species Distribution](https://github.com/yoonh07/Sea-Cucumber.git)
@@ -18,13 +18,14 @@
   - [Sample Size Calculations](https://github.com/joshmadakor1/Sentinel-Lab)
 
 
-<h2>📺 Projects in Financial Mathematics</h2>
+<h2>💹💰📉  Projects in Financial Mathematics</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Monte Carlo and Finite Difference Methods
+in option pricing](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Portfolio optimisation with market data](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 
-<h2> Honours Research Project in Quantitative Finance</h2>
+<h2>👨‍💻📚 Honours Research Project in Quantitative Finance</h2>
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> About me...</h2>
