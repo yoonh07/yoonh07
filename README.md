@@ -15,7 +15,7 @@
 - <b>A Statistical Analysis of Tooth Decay in Individuals with Down Syndrome
   - [Data Cleaning, Tabular Analysis, and Chi-Squared Testing](https://github.com/yoonh07/Sea-Cucumber.git) <b><i></b></i>
 - <b>Power Analysis</b>
-  - [Sample Size Calculations](https://github.com/yoonh07/Sea-Cucumber.git))
+  - [Sample Size Calculations](https://github.com/yoonh07/Sea-Cucumber.git)
 
 
 <h2>💹💰📉  Projects in Financial Mathematics</h2>
