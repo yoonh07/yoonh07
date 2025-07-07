@@ -36,7 +36,7 @@ I am currently working as a private math tutor and running a social media channe
 [Instagram](https://www.instagram.com/joshmadakor/)
 
 My linkedin Profile is<br/>
-<a href="https://www.linkedin.com/in/joshmadakor/" target="_blank">
+<a href="www.linkedin.com/in/yoonheecha/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="16px" alt="LinkedIn" style="vertical-align: middle;" />
 </a> 
-[LinkedIn](https://www.linkedin.com/in/joshmadakor/)
+[LinkedIn](www.linkedin.com/in/yoonheecha)
