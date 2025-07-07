@@ -29,13 +29,14 @@
 
 <h2> About me...</h2>
 
-<br />
+I am currently working as a private math tutor and running a social media channel.<br/>
+<a href="https://www.instagram.com/joshmadakor/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="16px" alt="Instagram" style="vertical-align: middle;" />
+</a> 
+[Instagram](https://www.instagram.com/joshmadakor/)
 
-I am currently working as a private math tutor and running a social media channel at: [Instagram][instagram]
-
-My LinkedIn profile is: [LinkedIn][linkedin]
-
-[linkedin]: https://linkedin.com/in/joshmadakor  
-[instagram]: https://www.instagram.com/joshmadakor/
-
-
+My linkedin Profile is<br/>
+<a href="https://www.linkedin.com/in/joshmadakor/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="16px" alt="LinkedIn" style="vertical-align: middle;" />
+</a> 
+[LinkedIn](https://www.linkedin.com/in/joshmadakor/)
