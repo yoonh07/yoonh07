@@ -12,8 +12,8 @@
 
 - <b>A Statistical Investigation into Sea Cucumber   Species at One Tree Island
   - [Negative Binomial Model to Understand Species Distribution](https://github.com/yoonh07/Sea-Cucumber.git)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>A Statistical Analysis of Tooth Decay in Individuals with Down Syndrome
+  - [Data Cleaning, Tabular Analysis, and Chi-Squared Testing](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
