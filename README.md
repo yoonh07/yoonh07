@@ -8,9 +8,9 @@
   This realisation led me back to academia through the Honours program, and I’m now actively interested in gaining experience as a Quantitative Trader while continuing to explore opportunities for research in Quantitative Finance.
 </p>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Statistical Consultng Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>A Statistical Investigation into Sea Cucumber   Species at One Tree Island
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
