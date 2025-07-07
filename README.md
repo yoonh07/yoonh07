@@ -13,16 +13,16 @@
 - <b>A Statistical Investigation into Sea Cucumber   Species at One Tree Island
   - [Negative Binomial Model to Understand Species Distribution](https://github.com/yoonh07/Sea-Cucumber.git)
 - <b>A Statistical Analysis of Tooth Decay in Individuals with Down Syndrome
-  - [Data Cleaning, Tabular Analysis, and Chi-Squared Testing](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Data Cleaning, Tabular Analysis, and Chi-Squared Testing](https://github.com/yoonh07/Sea-Cucumber.git) <b><i></b></i>
 - <b>Power Analysis</b>
-  - [Sample Size Calculations](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Sample Size Calculations](https://github.com/yoonh07/Sea-Cucumber.git))
 
 
 <h2>💹💰📉  Projects in Financial Mathematics</h2>
 
 - [Monte Carlo and Finite Difference Methods
-in option pricing](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Portfolio Optimisation with Market Data](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+in option pricing](https://github.com/yoonh07/Sea-Cucumber.git)
+- [Portfolio Optimisation with Market Data](https://github.com/yoonh07/Sea-Cucumber.git)
 
 <h2>👨‍💻📚 Honours Research Project in Quantitative Finance</h2>
 <ul>
