@@ -14,8 +14,8 @@
   - [Negative Binomial Model to Understand Species Distribution](https://github.com/yoonh07/Sea-Cucumber.git)
 - <b>A Statistical Analysis of Tooth Decay in Individuals with Down Syndrome
   - [Data Cleaning, Tabular Analysis, and Chi-Squared Testing](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Power Analysis</b>
+  - [Sample Size Calculations](https://github.com/joshmadakor1/Sentinel-Lab)
 
 
 <h2>📺 Projects in Financial Mathematics</h2>
