@@ -21,14 +21,14 @@
 <h2>💹💰📉  Projects in Financial Mathematics</h2>
 
 - [Monte Carlo and Finite Difference Methods
-in option pricing](https://github.com/yoonh07/Sea-Cucumber.git)
-- [Portfolio Optimisation with Market Data](https://github.com/yoonh07/Sea-Cucumber.git)
+in option pricing](https://github.com/yoonh07/MC-FD-Method.git)
+- [Portfolio Optimisation with Market Data](https://github.com/yoonh07/Optimal-Quantization.git)
 
 <h2>👨‍💻📚 Honours Research Project in Quantitative Finance</h2>
 <ul>
   <li>
     <b>Optimal Quantization for European Option Pricing under Non-Log-Normal Asset Dynamics</b><br/>
-    <a href="https://github.com/yoonh07/Sea-Cucumber.git" target="_blank">Research Proposal</a>
+    <a href="https://github.com/yoonh07/Optimal-Quantization.git" target="_blank">Research Proposal</a>
   </li>
 </ul>
 
@@ -38,7 +38,7 @@ I am currently working as a private math tutor and running a social media channe
 <a href="https://www.instagram.com/joshmadakor/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="16px" alt="Instagram" style="vertical-align: middle;" />
 </a> 
-[Instagram](https://www.instagram.com/joshmadakor/)
+[Instagram](https://www.linkedin.com/in/yoonheecha)
 
 My linkedin Profile is<br/>
 <a href="https://www.linkedin.com/in/yoonheecha/" target="_blank">
