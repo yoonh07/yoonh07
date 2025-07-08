@@ -13,7 +13,7 @@
 - <b>A Statistical Investigation into Sea Cucumber   Species at One Tree Island
   - [Negative Binomial Model to Understand Species Distribution](https://github.com/yoonh07/Sea-Cucumber.git)
 - <b>A Statistical Analysis of Tooth Decay in Individuals with Down Syndrome
-  - [Data Cleaning, Tabular Analysis, and Chi-Squared Testing](https://github.com/yoonh07/Sea-Cucumber.git) <b><i></b></i>
+  - [Data Cleaning, Tabular Analysis, and Chi-Squared Testing](https://github.com/yoonh07/Tooth-Decay.git) <b><i></b></i>
 - <b>Power Analysis</b>
   - [Sample Size Calculations](https://github.com/yoonh07/Sea-Cucumber.git)
 
